@@ -6,7 +6,7 @@
 
 Запустить:
 ```bash
-composer require "fomvasss/laravel-dadata"
+composer require "ktscript/laravel-dadata"
 ```
 ---
 __Для Laravel < 5.5:__
